@@ -12,12 +12,12 @@ jobs:
     steps:
       - name: matrics1
         uses: lowlighter/metrics@latest
-        filename: metrics1.svg
         with:
           # Your GitHub token
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
           # Options
+          filename: metrics1.svg
           user: trasta298
           template: classic
           base: header, activity, community, repositories, metadata
