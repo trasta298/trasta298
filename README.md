@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<div>
-  <img src="https://github.com/trasta298/trasta298/blob/main/metrics1.svg" width="48%" />
-  <img src="https://github.com/trasta298/trasta298/blob/main/metrics2.svg" width="48%" />
-</div>
+<img align="left" width="390" alt="🐅" src="https://github.com/trasta298/trasta298/blob/master/metrics.svg">
+<img align="right" width="390" alt="🐅" src="https://github.com/trasta298/trasta298/blob/master/achievements.svg">
+<img align="right" width="390" alt="🐅" src="https://github.com/trasta298/trasta298/blob/master/anilist.svg">
