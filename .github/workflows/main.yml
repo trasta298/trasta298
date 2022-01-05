@@ -47,9 +47,12 @@ jobs:
           base: ""
           config_timezone: Asia/Tokyo
           config_twemoji: yes
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: C
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: characters, favorites
-          plugin_anilist_limit: 2
+          plugin_anilist_limit: 4
           plugin_anilist_shuffle: no
           plugin_anilist_user: .user.login
