@@ -220,11 +220,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="366.13867243754913" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="366.13867243754913" y="0" width="91.55167716271865" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.69034960026784" y="0" width="1.3213348798468016" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.0116844801146" y="0" width="0.7734643199103229" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.7851488000249" y="0" width="0.21485119997508972" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="366.13209603587336" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="366.13209603587336" y="0" width="91.55809173854824" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.6901877744216" y="0" width="1.321427459284402" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.011615233706" y="0" width="0.773518512751845" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.78513374645786" y="0" width="0.21486625354217917" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -237,7 +237,7 @@
                             </div>
                             <small>
                                 <div>102 kB</div>
-                                <div>79.6%</div>
+                                <div>79.59%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2642,7 +2642,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 May 2022, 11:19:55 (timezone Asia/Tokyo) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 13 May 2022, 21:55:35 (timezone Asia/Tokyo) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
