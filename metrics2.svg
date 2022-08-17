@@ -214,15 +214,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 50.9kb of code in 71 edited files across 78 commits over last 20 days</small>
+                <small>estimation from 50.9kb of code in 71 edited files across 78 commits over last 21 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="436.48730301298275" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="436.48730301298275" y="0" width="20.357638605372745" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.8449416183555" y="0" width="3.1550583816444844" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="436.45812338281354" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="436.45812338281354" y="0" width="20.372055018384856" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.8301784011984" y="0" width="3.1698215988015797" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -235,7 +235,7 @@
                             </div>
                             <small>
                                 <div>34.8 kB</div>
-                                <div>94.89%</div>
+                                <div>94.88%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -246,7 +246,7 @@
                                 Dockerfile
                             </div>
                             <small>
-                                <div>252 bytes</div>
+                                <div>253 bytes</div>
                                 <div>0.69%</div>
                             </small>
                         </div>
@@ -584,17 +584,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Go</span>
-                                <div class="bar" style="width: 51.368442150623835%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 51.38994592429401%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">64%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 3.2590068647592325%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.2565591828559985%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 0.5030816254948138%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.5027037852994192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -2612,7 +2612,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Aug 2022, 11:37:24 (timezone Asia/Tokyo) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 17 Aug 2022, 21:54:40 (timezone Asia/Tokyo) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
