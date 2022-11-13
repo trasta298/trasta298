@@ -220,11 +220,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="337.1144992688079" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="337.1144992688079" y="0" width="81.60185235335535" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="418.71635162216324" y="0" width="22.267507988950875" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="440.9838596111141" y="0" width="16.512213616422034" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="457.49607322753616" y="0" width="2.5039267724638465" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="337.1211546793761" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="337.1211546793761" y="0" width="81.59743284228769" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="418.7185875216638" y="0" width="22.26630199306759" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="440.9848895147314" y="0" width="16.51131932409012" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="457.49620883882153" y="0" width="2.5037911611785097" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -610,22 +610,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 30.131961015438577%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">38%</span>
+                                <div class="bar" style="width: 29.974260710404394%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">37%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Go</span>
-                                <div class="bar" style="width: 21.341459908576027%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 21.229766058456786%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">27%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 6.255929620791766%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.223188240004576%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 6.097231406146681%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.065320597151519%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                         </div>
@@ -2663,7 +2663,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2022, 11:08:42 (timezone Asia/Tokyo) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 13 Nov 2022, 21:46:18 (timezone Asia/Tokyo) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
