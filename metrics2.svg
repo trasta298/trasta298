@@ -214,16 +214,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 623kb of code in 395 edited files across 276 commits over last 30 days</small>
+                <small>estimation from 582kb of code in 345 edited files across 256 commits over last 29 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="238.16730602648187" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="238.16730602648187" y="0" width="210.11755970795693" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="448.2848657344388" y="0" width="7.067194654126964" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="455.3520603885658" y="0" width="4.647939611434229" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.989584672753" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="232.989584672753" y="0" width="218.33097595473834" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="451.3205606274913" y="0" width="6.701813038446702" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="458.022373665938" y="0" width="1.9776263340619777" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -235,8 +235,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>192 kB</div>
-                                <div>51.78%</div>
+                                <div>181 kB</div>
+                                <div>50.65%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -247,8 +247,8 @@
                                 HCL
                             </div>
                             <small>
-                                <div>5.71 kB</div>
-                                <div>1.54%</div>
+                                <div>5.21 kB</div>
+                                <div>1.46%</div>
                             </small>
                         </div>
                     </section>
@@ -262,7 +262,7 @@
                             </div>
                             <small>
                                 <div>169 kB</div>
-                                <div>45.68%</div>
+                                <div>47.46%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -273,8 +273,8 @@
                                 Dockerfile
                             </div>
                             <small>
-                                <div>3.76 kB</div>
-                                <div>1.01%</div>
+                                <div>1.54 kB</div>
+                                <div>0.43%</div>
                             </small>
                         </div>
                     </section>
@@ -2637,7 +2637,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Apr 2025, 10:56:02 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Apr 2025, 21:44:58 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
